@@ -20,7 +20,7 @@ Welcome to the Timers Crafters Application! This project allows users to set and
 
 <img src="print.png" alt="LRP" width="auto"  height="auto" />
 
-Before diving into the details, you can check out a live demo of the Multi-Timer Application here: [Demo Link](https://htmlpreview.github.io/?https://github.com/luisrpavanelli/Timers-Crafters/blob/main/index.html)
+Before diving into the details, you can check out a live demo of the Multi-Timer Application here: [Preview Link](https://luisrpavanelli.github.io/Timers-Crafters/)
 
 ## Features
 
